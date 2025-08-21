@@ -1,7 +1,7 @@
 # Kevin Guzmán
 ## Senior Full Stack Developer | Technical Instructor | AI-Enhanced Development Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](tu-linkedin) [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kevinjguzmano777@outlook.com) [![Location](https://img.shields.io/badge/Location-Bogotá%2C%20Colombia-success?style=flat)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/guzman-kevin/) [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kevinjguzmano777@outlook.com) [![Location](https://img.shields.io/badge/Location-Bogotá%2C%20Colombia-success?style=flat)]()
 
 ---
 
