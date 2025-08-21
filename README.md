@@ -7,7 +7,7 @@
 
 ## Professional Summary
 
-Senior Full Stack Developer with **5+ years** of experience architecting and delivering enterprise-grade web applications. Specialized in **AI-enhanced development workflows** and **prompt engineering optimization**. Proven track record of **10+ successfully deployed applications** across fintech, e-commerce, and enterprise management sectors.
+Full Stack Developer with **5+ years** of experience architecting and delivering enterprise-grade web applications. Specialized in **AI-enhanced development workflows** and **prompt engineering optimization**. Proven track record of **10+ successfully deployed applications** across fintech, e-commerce, and enterprise management sectors.
 
 **Current Focus:** Scalable application architecture, AI integration, and technical education.
 
@@ -146,7 +146,7 @@ Code Quality:               95%+ test coverage maintained
 
 ## Current Availability
 
-**Status:** Open to senior-level opportunities  
+**Status:** Open to semi-senior-level opportunities  
 **Preference:** Full-time positions (remote/hybrid/on-site)  
 **Specialization:** Enterprise application development, AI integration, technical leadership  
 **Location:** Bogotá, Colombia
@@ -156,8 +156,7 @@ Code Quality:               95%+ test coverage maintained
 ## Contact Information
 
 **Email:** kevinjguzmano777@outlook.com  
-**Phone:** +57 322 4775975  
-**LinkedIn:** [Professional Profile](tu-linkedin)  
+**LinkedIn:** [Professional Profile](https://www.linkedin.com/in/guzman-kevin/)  
 **Languages:** Spanish (Native), English (B1 - Advancing to B2)
 
 ---
